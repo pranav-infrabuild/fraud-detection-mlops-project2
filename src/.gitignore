@@ -1,0 +1,26 @@
+# Virtual environments
+venv/
+fraud_env/
+mlflow_env/
+
+# Python cache
+__pycache__/
+*.pyc
+
+# Data (regenerate with generate_data.py)
+data/raw/*.csv
+data/processed/*.csv
+
+# Models (regenerate with train.py)
+models/*.pkl
+
+# MLflow tracking
+mlruns/
+
+# Reports
+reports/*.html
+
+# Editor / OS
+.vscode/
+.idea/
+.DS_Store
