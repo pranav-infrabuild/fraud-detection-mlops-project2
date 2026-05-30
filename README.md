@@ -1185,14 +1185,8 @@ python submit_job.py
 
 ---
 
-## Credits
+<img width="959" height="469" alt="image" src="https://github.com/user-attachments/assets/0c2c5da9-1230-4cff-b080-7bd8017c6985" />
 
-Project built as part of MLOps learning (Phase 5). 
 
-Based on real-world fraud detection systems used in banking (similar to Spectre AI architecture for AML/fraud compliance).
+<img width="959" height="470" alt="image" src="https://github.com/user-attachments/assets/3fff9623-867b-4ec5-a499-2a933a8b84eb" />
 
-Tools: MLflow, Docker, Evidently, DVC, Azure ML, scikit-learn, Flask.
-
----
-
-**For questions or collaboration, feel free to reach out!**
