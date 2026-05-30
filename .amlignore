@@ -1,0 +1,13 @@
+fraud_env/
+evidently_env/
+venv/
+mlruns/
+.dvc/
+.git/
+__pycache__/
+*.pyc
+reports/
+Dockerfile
+test_azure.py
+create_compute.py
+submit_job.py

@@ -24,3 +24,4 @@ reports/*.html
 .idea/
 .DS_Store
 
+evidently_env/
